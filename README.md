@@ -3,7 +3,7 @@ This repository contains an implementation of matrix multiplication using CUDA t
 
 ## Technologies and Tools:
 1) Programming Language: C++
-2 Parallel Computing: CUDA
+2) Parallel Computing: CUDA
 3) Build System: CMake
 4) Operating System: Windows 11
 5) GPU: NVIDIA RTX 3070 Ti
