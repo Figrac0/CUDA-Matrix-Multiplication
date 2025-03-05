@@ -13,7 +13,7 @@ The project implements high-performance matrix multiplication by utilizing CUDA 
 
 Two implementations are included:
 
-1)Basic matrix multiplication using global memory.
+1)Basic matrix multiplication using global memory.<br>
 2)Optimized matrix multiplication with shared memory and block-wise computation, reducing memory access latency and improving efficiency.
 
 ### Requirements:
