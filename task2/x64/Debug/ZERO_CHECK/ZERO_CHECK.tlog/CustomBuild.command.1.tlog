@@ -1,0 +1,10 @@
+^D:\УНИК\SUPERCOMPUTERS.LAB4\TASK2\CMAKEFILES\D0EAE0D2B0EF2B615FFFAC8991129529\GENERATE.STAMP.RULE
+setlocal
+D:\cmake\bin\cmake.exe -SD:/Уник/SuperComputers.Lab4/task2 -BD:/Уник/SuperComputers.Lab4/task2 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Уник/SuperComputers.Lab4/task2/MatrixMulCuda.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

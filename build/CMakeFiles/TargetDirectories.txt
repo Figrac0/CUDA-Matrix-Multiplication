@@ -1,0 +1,4 @@
+D:/Уник/SuperComputers.Lab4/build/CMakeFiles/matrix_mul_original.dir
+D:/Уник/SuperComputers.Lab4/build/CMakeFiles/matrix_mul_optimized.dir
+D:/Уник/SuperComputers.Lab4/build/CMakeFiles/ALL_BUILD.dir
+D:/Уник/SuperComputers.Lab4/build/CMakeFiles/ZERO_CHECK.dir

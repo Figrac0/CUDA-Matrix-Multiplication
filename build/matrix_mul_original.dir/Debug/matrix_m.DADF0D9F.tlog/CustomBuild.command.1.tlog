@@ -1,0 +1,10 @@
+^D:\УНИК\SUPERCOMPUTERS.LAB4\TASK1\CMAKELISTS.TXT
+setlocal
+D:\cmake\bin\cmake.exe -SD:/Уник/SuperComputers.Lab4/task1 -BD:/Уник/SuperComputers.Lab4/build --check-stamp-file D:/Уник/SuperComputers.Lab4/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

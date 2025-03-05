@@ -1,0 +1,3 @@
+D:/Уник/SuperComputers.Lab4/task2/CMakeFiles/matrix_mul_block.dir
+D:/Уник/SuperComputers.Lab4/task2/CMakeFiles/ALL_BUILD.dir
+D:/Уник/SuperComputers.Lab4/task2/CMakeFiles/ZERO_CHECK.dir
